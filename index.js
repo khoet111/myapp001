@@ -1,6 +1,6 @@
 /**
  * @format
- * btheerapat klomklung
+ * theerapat klomklung
  */
 
 import {AppRegistry} from 'react-native';
